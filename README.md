@@ -88,3 +88,6 @@ No external libraries are required for the basic calculator.
 Tarnim Ahmed
 
 Independent Programming Project
+
+Result:<img width="922" height="492" alt="$REWSA7H" src="https://github.com/user-attachments/assets/ae7d116b-687f-4924-a5e3-2ac85b3f62d5" />
+
